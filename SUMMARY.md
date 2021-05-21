@@ -6,7 +6,7 @@
 
 * [密码学](suan-fa-gai-lun-yue-du/mi-ma-xue.md)
 * [素性测试](suan-fa-gai-lun-yue-du/su-xing-ce-shi.md)
-* [模运算](suan-fa-gai-lun-yue-du/untitled.md)
+* [数论基础](suan-fa-gai-lun-yue-du/marmar.md)
 
 ## Leetcode
 
